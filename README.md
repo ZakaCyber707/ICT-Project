@@ -1,57 +1,65 @@
-Infotech Computer Academy Website
-This project is a website for Infotech Computer Academy, designed to provide information about the academy, available courses, fee structure, and contact details.
+# Infotech Computer Academy Website
 
-Features
-Header and Branding:
+## Introduction  
+This is a website project for **Infotech Computer Academy**, aimed at providing comprehensive information about the academy, courses offered, fee structure, and contact details.  
 
-Showcases the academy's name prominently.
-Courses Offered:
+---
 
-Includes fields like Office Automation, Digital Marketing, Programming, Editing, Cybersecurity, and C++.
-Fee Structure:
+## Features  
 
-Lists fees for the respective courses.
-About Section:
+### 1. Header and Branding  
+The website prominently displays the academy's name and branding to make a strong first impression.
 
-Highlights the academy's background, goals, and strengths.
-FAQs:
+### 2. Courses Offered  
+A variety of courses are listed, including:  
+- Office Automation  
+- Digital Marketing  
+- Programming  
+- Editing  
+- Cybersecurity  
+- C++  
 
-Provides quick answers to common queries about the academy.
-Contact Details:
+### 3. Fee Structure  
+An organized list of course fees for easy reference.
 
-Includes the address and links for further queries or admissions.
-Links for Admission:
+### 4. About the Academy  
+Includes a detailed background, emphasizing the academy’s focus on learning, innovation, and skill development in information technology.
 
-Allows users to access the admission form directly.
-Technologies Used
-HTML: For structure and content.
-CSS: For styling the website (linked as style.css).
-Images: Representing various fields and enhancing visual appeal.
-Links and Forms: To guide users for admissions and queries.
-How to Use
-Open the Website:
+### 5. FAQs Section  
+Answers common questions about:  
+- The quality of the academy  
+- Fee structure  
+- Teachers' qualifications  
 
-Launch the project.html file in a browser.
-Navigate:
+### 6. Admission Links  
+Provides links for both offline and online admission forms.
 
-Explore various sections to view information about courses, fees, and the academy's background.
-Admission:
+### 7. Contact Information  
+Displays the academy’s address for easy communication.
 
-Use the provided links for offline or online admission forms.
-File Structure
-graphql
-Copy code
-project/
-│
-├── project.html       # Main HTML file
-├── style.css          # CSS for styling (external, linked)
-├── images/            # Images used in the project
-│   ├── graphic designing.gif
-│   ├── c++.gif
-│   ├── ethical hacking.gif
-│
-├── Form Assignment.html  # Admission form page
-Future Enhancements
-Add JavaScript for interactive features.
-Optimize images and file paths for better accessibility.
-Expand FAQs based on user feedback.
+---
+
+## Technologies Used  
+
+- **HTML**: Structure of the webpage.  
+- **CSS**: External styles for visual appeal (linked as `style.css`).  
+- **Images**: GIFs and graphics to enhance presentation.  
+- **Links**: For navigation to admission forms and portfolio.
+
+---
+
+## How to Use  
+
+1. **Open the Website**:  
+   - Launch the `project.html` file in any modern web browser.
+
+2. **Explore**:  
+   - Browse through the courses, fee structure, and other sections.
+
+3. **Apply for Admission**:  
+   - Use the provided links to access offline or online admission forms.
+
+---
+
+## File Structure  
+
